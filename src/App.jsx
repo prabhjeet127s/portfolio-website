@@ -1,3 +1,4 @@
+import Home from "./components/Home"
 import Nav from "./components/Nav"
 
 
@@ -10,6 +11,7 @@ function App() {
     <div className=" bg-[#171d32] h-auto w-full overflow-hidden">
 
       <Nav/>
+      <Home/>
     </div>
   )
 }
