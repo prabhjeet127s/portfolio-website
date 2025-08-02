@@ -1,3 +1,4 @@
+import About from "./components/About"
 import Home from "./components/Home"
 import Nav from "./components/Nav"
 
@@ -12,6 +13,7 @@ function App() {
 
       <Nav/>
       <Home/>
+      <About/>
     </div>
   )
 }
