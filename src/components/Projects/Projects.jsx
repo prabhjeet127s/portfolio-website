@@ -18,7 +18,7 @@ const Projects = () => {
           title="Available Soon"
           main="Currenlty This project is going on."
         />
-        
+
       </div>
     </div>
   );
